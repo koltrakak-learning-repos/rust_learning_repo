@@ -1,0 +1,8 @@
+# a section heading that indicates that the following statements are configuring 
+# a package.
+[package]
+name = "hello_cargo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
